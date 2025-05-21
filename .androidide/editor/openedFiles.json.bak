@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Detector/app/src/main/java/com/dev/detector/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 700,
+          "line": 27
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Detector/app/src/main/java/com/dev/detector/MainActivity.java"
+}
